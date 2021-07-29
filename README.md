@@ -8,4 +8,4 @@ It´s possible the present code don´t fix with your experiment parameters. Chec
 
 María I Ardaya Franco
 PhD student at Achucarro Basque Center for Neuroscience and University of the Basque Country. 
-Feel free to get in touch mariaisabel.ardaya@ehu.eus
+Feel free to get in touch with me 👉 mariaisabel.ardaya@ehu.eus
