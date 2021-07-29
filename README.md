@@ -6,6 +6,12 @@ Adjusted for pictures with a magnification of 63X.
 
 It´s possible the present code don´t fix with your experiment parameters. Check before!!
 
+Examples of masks:
+
+![Montage](https://user-images.githubusercontent.com/88147228/127508438-f98ff49e-8892-495d-8f9e-d88c7b8db99f.gif)
+
 María I Ardaya Franco
+
 PhD student at Achucarro Basque Center for Neuroscience and University of the Basque Country. 
+
 Feel free to get in touch with me 👉 mariaisabel.ardaya@ehu.eus
